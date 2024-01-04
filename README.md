@@ -11,13 +11,13 @@ const aboutMe = {
    code: [Javascript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux"],
-         css: ["Bootstrap", "Material UI",]
+         js: ["React", "Next.js"],
+         css: ["Tailwindcss", "Material UI",]
       },
       backEnd: {
          js: ["Node", "Express"]
       },
-      databases: ["sequelize", "PostgreSQL"],
+      databases: ["sequelize", "PostgreSQL", "MongoDB"],
    },
    currentOccupation: ["Teaching", "Henry Student"],
 };
@@ -27,7 +27,7 @@ const aboutMe = {
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize**
+- 💬 Ask me about **JavaScript, React, Next.js, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize, MongoDB**
 
 <br>
 
