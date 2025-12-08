@@ -3,13 +3,13 @@
 
 <h3 align="left">
 I live in Buenos Aires, Argentina. I'm a Backend Developer with professional experience building and optimizing web and mobile applications.  
-I specialize in technologies such as **TypeScript, Go, Java, Python, PHP, React.js, Next.js, Node.js, SQL Server, Docker, and AWS**.
+I specialize in technologies such as TypeScript, Go, Java, Python, PHP, React.js, Next.js, Node.js, SQL Server, Docker, and AWS.
 
-At Grupo Penna, I work in the IT department providing software solutions for multiple companies within the group. My focus is on **process automation**, **digitalization of operations**, **backend architecture**, and designing **simple and efficient user experiences**.
+At Grupo Penna, I work in the IT department providing software solutions for multiple companies within the group. My focus is on process automation, digitalization of operations, backend architecture, and designing simple and efficient user experiences.
 
-I also have hands-on experience with **DevOps**, CI/CD pipelines using **GitHub Actions**, and cloud infrastructure deployments on **AWS (EC2, S3), Nginx**, and Docker-based environments.
+I also have hands-on experience with DevOps, CI/CD pipelines using GitHub Actions, and cloud infrastructure deployments on AWS (EC2, S3), Nginx, and Docker-based environments.
 
-I studied one year of Software Engineering and I'm currently studying the **Technicature in Programming at UTN**.  
+I studied one year of Software Engineering and I'm currently studying the Technicature in Programming at UTN.  
 I'm passionate about clean code, scalable architectures, teamwork, and continuous improvement.
 </h3>
 
@@ -25,7 +25,7 @@ const aboutMe = {
       css: ["Tailwind CSS", "Material UI"]
     },
     backEnd: {
-      ts: ["Node.js", "Nest.js", "NestJS"],
+      ts: ["Node.js", "Express", "NestJS"],
       python: ["Django"],
       go: ["Go Modules"],
       java: ["Spring Boot (learning)"],
