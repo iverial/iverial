@@ -25,7 +25,7 @@ const aboutMe = {
       css: ["Tailwind CSS", "Material UI"]
     },
     backEnd: {
-      ts: ["Node.js", "Express", "NestJS"],
+      ts: ["Node.js", "Nest.js", "NestJS"],
       python: ["Django"],
       go: ["Go Modules"],
       java: ["Spring Boot (learning)"],
