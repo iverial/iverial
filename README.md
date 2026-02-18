@@ -1,42 +1,46 @@
 <h1 align="left">Hi 👋, I'm Ivan Caggiano</h1>
-<h3 align="left">Backend Developer</h3>
+<h3 align="left">.NET Backend Developer</h3>
 
 <h3 align="left">
-I live in Buenos Aires, Argentina. I'm a Backend Developer with professional experience building and optimizing web and mobile applications.  
-I specialize in technologies such as TypeScript, Go, Java, Python, PHP, React.js, Next.js, Node.js, SQL Server, Docker, and AWS.
+I’m a .NET Backend Developer based in Buenos Aires, Argentina, with over 2 years of professional experience building scalable and high-performance backend systems.
 
-At Grupo Penna, I work in the IT department providing software solutions for multiple companies within the group. My focus is on process automation, digitalization of operations, backend architecture, and designing simple and efficient user experiences.
+Currently working at Grupo Penna, I design and maintain RESTful APIs, optimize SQL Server databases, and contribute to process automation and digital transformation initiatives across multiple business units.
 
-I also have hands-on experience with DevOps, CI/CD pipelines using GitHub Actions, and cloud infrastructure deployments on AWS (EC2, S3), Nginx, and Docker-based environments.
+My focus is on Clean Architecture, microservices, and building maintainable, production-ready backend solutions using ASP.NET Core and C#.
 
-I studied one year of Software Engineering and I'm currently studying the Technicature in Programming at UTN.  
-I'm passionate about clean code, scalable architectures, teamwork, and continuous improvement.
+I’m passionate about writing clean code, designing scalable systems, and continuously improving both technical and business processes.
 </h3>
 
 <br>
 
-```javascript
-const aboutMe = {
-  pronouns: "he" | "him",
-  code: ["TypeScript", "JavaScript", "Python", "Go", "PHP", "HTML", "CSS"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next.js"],
-      css: ["Tailwind CSS", "Material UI"]
-    },
-    backEnd: {
-      ts: ["Node.js", "Express", "NestJS"],
-      python: ["Django"],
-      go: ["Go Modules"],
-      java: ["Spring Boot (learning)"],
-      php: ["Laravel (learning)"]
-    },
-    databases: ["SQL Server", "PostgreSQL", "MongoDB"],
-    devOps: ["Docker", "Nginx", "GitHub Actions", "AWS (EC2, S3)", "Google Cloud"],
-    tools: ["Git", "Postman", "Figma"]
-  },
-  currentOccupation: [
-    "Backend Developer at Grupo Penna",
-    "UTN Student"
-  ]
-};
+```csharp
+public class AboutMe
+{
+    public string Name => "Ivan Caggiano";
+    public string Role => ".NET Backend Developer";
+    public string Location => "Buenos Aires, Argentina";
+
+    public string[] Languages => { "C#", "TypeScript" };
+
+    public object Backend => new
+    {
+        Frameworks = new[] { "ASP.NET Core", "Entity Framework Core" },
+        Architecture = new[] { "Clean Architecture", "Microservices", "REST APIs", "SOLID Principles" }
+    };
+
+    public object Database => new
+    {
+        Engine = "SQL Server",
+        Skills = new[] { "Schema Design", "Stored Procedures", "T-SQL", "Query Optimization" }
+    };
+
+    public object DevOps => new
+    {
+        Cloud = new[] { "AWS (EC2, S3)" },
+        Containers = new[] { "Docker" },
+        CI_CD = new[] { "GitHub Actions" },
+        WebServer = "Nginx"
+    };
+
+    public string CurrentPosition => "Backend Developer at Grupo Penna";
+}
