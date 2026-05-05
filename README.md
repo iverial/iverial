@@ -4,7 +4,7 @@
 <h3 align="left">
 I’m a .NET Backend Developer based in Buenos Aires, Argentina, with over 2 years of professional experience building scalable and high-performance backend systems.
 
-Currently working at Grupo Penna, I design and maintain RESTful APIs, optimize SQL Server databases, and contribute to process automation and digital transformation initiatives across multiple business units.
+Currently working at Grupo Jardin del Pilar, I design and maintain RESTful APIs, optimize SQL Server databases, and contribute to process automation and digital transformation initiatives across multiple business units.
 
 My focus is on Clean Architecture, microservices, and building maintainable, production-ready backend solutions using ASP.NET Core and C#.
 
@@ -42,5 +42,5 @@ public class AboutMe
         WebServer = "Nginx"
     };
 
-    public string CurrentPosition => "Backend Developer at Grupo Penna";
+    public string CurrentPosition => "Backend Developer at Grupo Jardin del Pilar";
 }
