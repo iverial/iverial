@@ -2,6 +2,8 @@
 
 **Backend Developer · .NET · SQL Server · NestJS** — Buenos Aires, Argentina
 
+🌐 **Portfolio:** [porfolio-ivan-caggiano.vercel.app](https://porfolio-ivan-caggiano.vercel.app/)
+
 I build the APIs and internal systems that operations teams use every day. I have 2+ years of professional experience, mostly with ASP.NET Core and SQL Server, and a solid background in Node.js and NestJS.
 
 I'm currently at **Grupo Jardín del Pilar**, where I build end to end the tools used by the Collections, Sales and Management Control teams:
@@ -74,4 +76,5 @@ public record AboutMe
 
 ## Contact
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-7A4DFF?style=flat-square)](https://porfolio-ivan-caggiano.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white)](https://www.linkedin.com/in/ivan-caggiano/)
